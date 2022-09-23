@@ -1,0 +1,29 @@
+.navInput {
+
+    width: 18rem;
+    height: 2.3rem;
+    border-radius: 10px;
+}
+
+.Fasearch {
+
+    position: absolute;
+    right: 1rem;
+    top:0.8rem;
+    cursor: pointer;
+    background-color: #F8F8F8;
+}
+.profileId {
+
+    text-align: justify;
+}
+
+.mdi {
+
+    background-color: #FFF4E0;
+    border-radius: 10px;
+    padding: 0.5rem;
+    color: #818181 !important;
+
+}
+    
