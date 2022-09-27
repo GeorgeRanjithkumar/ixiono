@@ -562,7 +562,7 @@ class UserSidebar extends Component {
 								? "nav-item active"
 								: "nav-item"
 						}>
-						<Link className="nav-link" to="/CreateEvent/CreateEvent" style={{color:"#797979"}}>
+						<Link className="nav-link" to="/Event-List/EventList" style={{color:"#797979"}}>
 							<FaCalendarAlt style={{padding:"0 1rem",fontSize:"3.2rem"}}/>
 							<span className="menu-title" style={{fontSize:"1.3rem"}}>
 								<Trans>Events</Trans>

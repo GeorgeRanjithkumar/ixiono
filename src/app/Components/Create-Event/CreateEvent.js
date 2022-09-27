@@ -139,7 +139,7 @@ const CreateEvent=()=>{
                         </div>                            
                     </div> 
                     <div style={{textAlign:"right"}}>
-                        <Link className={`btn ${styles.btn}`} to="/Event-List/EventList">save & preview</Link>
+                        <Link className={`btn ${styles.btn}`} to="">save & preview</Link>
                     </div>
                 </div>
             </div>

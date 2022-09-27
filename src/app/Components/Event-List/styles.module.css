@@ -17,12 +17,12 @@
 
 .cardHead {
     text-transform: uppercase;
-
+    margin-left: 2rem;
 
 }
 
 .heading {
-
+    width: max-content !important;
     text-transform: uppercase;
     font-weight: 600;
     background-color: #FEF9F5;

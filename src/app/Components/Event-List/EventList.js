@@ -14,10 +14,12 @@ const EventList=()=>{
                     <FaFilter style={{margin:"0rem 0.3rem"}}/>
                     filters
                 </button>
+                <Link to="/CreateEvent/CreateEvent" >
                 <button className={`btn ${styles.btn}`} style={{width:"9.8rem"}}>
                     <FaPlus style={{margin:"0rem 0.3rem"}}/>
                     create event
                 </button>
+                </Link>
             </div>
             <div className={`card mt-3 ${styles.card}`}>
                 <div className={`card-body`}>
